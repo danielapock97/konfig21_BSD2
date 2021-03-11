@@ -1,0 +1,1 @@
+# konfig21_BSD2
